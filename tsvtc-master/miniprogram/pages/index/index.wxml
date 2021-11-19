@@ -1,0 +1,79 @@
+<!--index.wxml-->
+<view>
+    <image class="ad01" src="/images/7.jpg/" mode="widthFix"></image>
+</view>
+
+<view class="shuju">
+    <view class="shuju_xiangmu">
+        <view class="shuju_xiangmu_shang">196</view>
+        <view class="shuju_xiangmu_xia">报名数</view>
+    </view>
+    <view class="shuju_xiangmu">
+        <view class="shuju_xiangmu_shang">53698</view>
+        <view class="shuju_xiangmu_xia">总票数</view>
+    </view>
+    <view class="shuju_xiangmu no_border_right">
+        <view class="shuju_xiangmu_shang">1987585</view>
+        <view class="shuju_xiangmu_xia">访问量</view>
+    </view>
+</view>
+
+<view class="chaxun">
+    <input  class="chaxun_zuo" type="text" placeholder="请输入编号或者姓名查询"></input>
+    <image  class="chaxun_you" src="/images/2.jpg" mode="widthFix"></image>
+</view>
+
+<view class="liebiao">
+    <view class="liebiao_xiangmu">
+        <navigator url="/pages/toupiao/xiangqing" class="liebiao_xiangmu1">
+            <image src="/tupian/3.jpg"  class="liebiao_xiangmu1_tupian"  mode="widthFix"></image>
+        </navigator>  
+        <view class="liebiao_xiangmu2">
+            <view class="liebiao_xiangmu2_zuo">001号</view>
+            <view class="liebiao_xiangmu2_you">康健</view>
+        </view>
+        <view class="liebiao_xiangmu3">
+            <view class="liebiao_xiangmu3_zuo">100票</view>
+            <view class="liebiao_xiangmu3_you">第一次修改</view>
+        </view>
+    </view>
+    <view class="liebiao_xiangmu">
+       <navigator url="/pages/toupiao/xiangqing" class="liebiao_xiangmu1">
+            <image src="/tupian/2.jpg"  class="liebiao_xiangmu1_tupian"  mode="widthFix"></image>
+        </navigator> 
+        <view class="liebiao_xiangmu2">
+            <view class="liebiao_xiangmu2_zuo">002号</view>
+            <view class="liebiao_xiangmu2_you">武彬</view>
+        </view>
+        <view class="liebiao_xiangmu3">
+            <view class="liebiao_xiangmu3_zuo">100票</view>
+            <view class="liebiao_xiangmu3_you">投一票</view>
+        </view>
+    </view>
+    <view class="liebiao_xiangmu">
+       <navigator url="/pages/toupiao/xiangqing" class="liebiao_xiangmu1">
+            <image src="/tupian/3.jpg"  class="liebiao_xiangmu1_tupian"  mode="widthFix"></image>
+        </navigator> 
+        <view class="liebiao_xiangmu2">
+            <view class="liebiao_xiangmu2_zuo">003号</view>
+            <view class="liebiao_xiangmu2_you">罗秀波</view>
+        </view>
+        <view class="liebiao_xiangmu3">
+            <view class="liebiao_xiangmu3_zuo">100票</view>
+            <view class="liebiao_xiangmu3_you">投一票</view>
+        </view>
+    </view>
+    <view class="liebiao_xiangmu">
+       <navigator url="/pages/toupiao/xiangqing" class="liebiao_xiangmu1">
+            <image src="/tupian/4.jpg"  class="liebiao_xiangmu1_tupian"  mode="widthFix"></image>
+        </navigator> 
+        <view class="liebiao_xiangmu2">
+            <view class="liebiao_xiangmu2_zuo">004号</view>
+            <view class="liebiao_xiangmu2_you">王萍</view>
+        </view>
+        <view class="liebiao_xiangmu3">
+            <view class="liebiao_xiangmu3_zuo">100票</view>
+            <view class="liebiao_xiangmu3_you">投一票</view>
+        </view>
+    </view>            
+</view>

@@ -1,0 +1,15 @@
+<!--pages/demo1/demo1.wxml-->
+<view class="out">
+    <button type='primary' bindtap='send'>请求数据</button>
+<view class="row" wx:for="{{resData}}">
+<view class="pic">
+<image src="{{item.url}}"></image>
+</view>
+
+
+<view class="text">
+<view class ="title">{{item.title}}</view>
+<view class="time">{{item.time}}</view>
+</view>
+</view>
+</view>

@@ -1,0 +1,10 @@
+<!--pages/my/my.wxml-->
+<view class="xiangqing">
+<view class="xiangqing_biaoti">活动时间</view>
+<view class="xiangqing_shijian">2021年12月</view>
+<view class="xiangqing_jiangpin">活动奖品：</view>
+<view class="xiangqing_zhengshu">证书</view>
+<view class="xiangmu_guize">规则</view>
+<view class="xiangmu_guize">1.每人每天只能投一票</view>
+<view class="xiangmu_guize">2.不可蓄意刷票</view>
+</view>

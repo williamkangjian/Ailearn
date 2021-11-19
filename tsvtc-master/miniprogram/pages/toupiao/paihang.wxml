@@ -1,0 +1,44 @@
+<!--pages/toupiap/paihang.wxml-->
+<view>
+    <image class="ad01" src="/images/7.jpg" mode="widthFix"></image>
+</view>
+
+<view class="biaoti">
+    <view class="biaoti1">排名</view>
+    <view class="biaoti2">姓名</view>
+    <view class="biaoti3">票数</view>
+</view>
+
+<view class="paihang">
+    <view class="paihang_xuhao">01</view>
+    <view class="paihang_neirong">
+        <image class="paihang_neirong1" src="/tupian/1.jpg" mode="widthFix"></image>
+        <view class="paihang_neirong2">康健</view>
+    </view>
+    <view class="paihang_piaoshu">100</view>
+</view>
+<view class="paihang">
+    <view class="paihang_xuhao">02</view>
+    <view class="paihang_neirong">
+        <image class="paihang_neirong1" src="/tupian/2.jpg" mode="widthFix"></image>
+        <view class="paihang_neirong2">武彬</view>
+    </view>
+    <view class="paihang_piaoshu">100</view>
+</view>
+<view class="paihang">
+    <view class="paihang_xuhao">03</view>
+    <view class="paihang_neirong">
+        <image class="paihang_neirong1" src="/tupian/3.jpg" mode="widthFix"></image>
+        <view class="paihang_neirong2">罗秀波</view>
+    </view>
+    <view class="paihang_piaoshu">100</view>
+</view>
+<view class="paihang">
+    <view class="paihang_xuhao">04</view>
+    <view class="paihang_neirong">
+        <image class="paihang_neirong1" src="/tupian/4.jpg" mode="widthFix"></image>
+        <view class="paihang_neirong2">王萍</view>
+    </view>
+    <view class="paihang_piaoshu">100</view>
+</view>
+

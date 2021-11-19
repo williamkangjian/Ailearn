@@ -1,0 +1,83 @@
+/* pages/index/index.wxss */
+
+.ad01{
+  width: 100%;
+}
+
+.shuju{
+  display: flex;
+}
+.shuju_xiangmu{
+  flex-grow: 1;
+  justify-content: center;
+  border-right:1px solid gainsboro;
+}
+.no_border_right{
+  border:0;
+}
+.shuju_xiangmu_shang{
+  text-align: center;
+  color: gray;
+  font-size: 12px;
+  padding: 5px;
+}
+.shuju_xiangmu_xia{
+  text-align: center;
+  color: orange;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.chaxun{
+  background-color:#f2f2f2;
+  display: flex;
+  margin: 10px;
+  padding: 5px;
+}
+.chaxun_zuo{
+  flex-grow: 1;
+}
+.chaxun_you{
+  width: 25px;
+}
+
+.liebiao{
+  padding: 5px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.liebiao_xiangmu{
+  width: 48%;
+  margin: 3px;
+  padding: 5px;
+  box-sizing: border-box;
+  border:1px solid #f3f3f3;
+  box-shadow: 2px 2px 3px gainsboro;
+}
+
+.liebiao_xiangmu1_tupian{
+  width: 100%;
+}
+.liebiao_xiangmu2{
+  display: flex;
+  color: gray;
+}
+.liebiao_xiangmu2_zuo{
+  flex-grow: 1;
+}
+.liebiao_xiangmu2_you{
+flex-grow: 1;
+}
+.liebiao_xiangmu3{
+  display: flex;
+}
+.liebiao_xiangmu3_zuo{
+  flex-grow: 1;
+  color: orangered;
+}
+.liebiao_xiangmu3_you{
+  background-color: orangered;
+  color: white;
+  flex-grow: 1;
+  text-align: center;
+}

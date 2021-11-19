@@ -1,0 +1,41 @@
+/* pages/toupiap/paihang.wxss */
+.ad01{
+  width: 100%;
+}
+
+.biaoti{
+  display: flex;
+  color: gray;
+  background-color: #f5f5f5;
+  padding: 5px;
+  box-shadow: 1px 1px 2px gainsboro;
+}
+.biaoti1{width: 5em; text-align:center;}
+.biaoti2{ flex-grow: 1; text-align:center;}
+.biaoti3{width: 5em; text-align:center;}
+
+.paihang{
+  display: flex;
+  padding: 5px;
+  color: gray;    
+  align-items: center;
+  border-bottom: 1px dotted gainsboro;
+}
+.paihang_xuhao{
+  width: 5em;
+  text-align: center;
+}
+
+.paihang_neirong{
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+  justify-content: center;
+}
+.paihang_neirong1{width: 40px;border-radius: 50%; margin: 3px;}
+
+
+.paihang_piaoshu{
+  width: 5em;
+  text-align: center;
+}
